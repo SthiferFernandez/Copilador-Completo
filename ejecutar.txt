@@ -1,0 +1,3 @@
+para hacer que funcione solo debe de descargar la carpeta y ejecutar en la terminal el siguiente comando
+
+python main.py 
